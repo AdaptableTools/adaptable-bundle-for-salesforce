@@ -6,7 +6,6 @@
 npm run dev
 ```
 
-
 ## Setting your license key
 
 In the root folder, create a `.env.local` environment variable
